@@ -35,7 +35,7 @@ Loss count
 
 Bet amount adjustments
 
-##Requirements
+## Requirements
 
 Java JDK 11+
 
