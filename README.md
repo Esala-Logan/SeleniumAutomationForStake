@@ -46,3 +46,6 @@ Chrome browser installed
 ChromeDriver executable compatible with your Chrome version
 
 Run Chrome with remote debugging enabled
+
+## License
+This project is educational and does not promote real-money gambling. 
