@@ -1,4 +1,4 @@
-#Stake Wheel Automation – Martingale Strategy Simulation
+# Stake Wheel Automation – Martingale Strategy Simulation
 Overview
 
 This Java project automates playing the Stake Wheel game using Selenium WebDriver and applies the Martingale betting strategy.
